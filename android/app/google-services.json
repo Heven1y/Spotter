@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518606095808",
+    "firebase_url": "https://apivideos-ec1ad-default-rtdb.firebaseio.com",
+    "project_id": "apivideos-ec1ad",
+    "storage_bucket": "apivideos-ec1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518606095808:android:10693707617697995b3425",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518606095808-ef1onokh883m79qsnao5o20qn7ltpa0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp",
+            "certificate_hash": "db153ddfe413fd253108180479d1e5bd23d2fbde"
+          }
+        },
+        {
+          "client_id": "518606095808-l78fc21v9mifq4n32f02dqporh5g7sa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tMP_02lM5KPMdbDsppdBLjUNpExUadk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518606095808-l78fc21v9mifq4n32f02dqporh5g7sa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

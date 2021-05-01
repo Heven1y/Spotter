@@ -1,0 +1,5 @@
+import React from 'react'
+export const ADD_STREAM = 'STREAM/ADD_STREAM'
+export const REMOVE_STREAM = 'STREAM/REMOVE_STREAM'
+export const CHANGE_STREAM = 'STREAM/CHANGE_STREAM'
+export const LOAD_STREAM = 'STREAM/LOAD_STREAM'

@@ -1,0 +1,2 @@
+# Spotter
+Diplom project
